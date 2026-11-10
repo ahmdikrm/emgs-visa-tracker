@@ -1,0 +1,4 @@
+gspread>=6.0
+selenium>=4.20
+python-dotenv>=1.0
+pycountry>=23.12

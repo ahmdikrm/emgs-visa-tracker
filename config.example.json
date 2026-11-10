@@ -1,0 +1,14 @@
+{
+  "tabs": [
+    {
+      "title": null,
+      "default_status_col": 10,
+      "renewal_only": false
+    },
+    {
+      "title": "Renewal Applications",
+      "default_status_col": 7,
+      "renewal_only": true
+    }
+  ]
+}

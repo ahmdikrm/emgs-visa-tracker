@@ -1,0 +1,7 @@
+Student Visa Applications (demo data - all names and passport numbers are fictional),,,,,,,,,
+No,Student Name,Passport No,Nationality,Programme,Consultant,Intake,Submitted,Remarks,Percentage
+1,Demo Student A,X0000001,CHINA,English Foundation,Consultant 1,Jan 2027,2026-10-01,,
+2,Demo Student B,X0000002,KAZAKHSTAN,English Foundation,Consultant 2,Jan 2027,2026-10-03,,
+3,Demo Student C,X0000003,TURKEY,IELTS Prep,Consultant 1,Jan 2027,2026-10-05,,
+4,Demo Student D,X0000004,SOUTH KOREA,English Foundation,Consultant 3,Mar 2027,2026-10-12,,
+5,Demo Student E,X0000005,UAE,IELTS Prep,Consultant 2,Mar 2027,2026-09-20,,100%
